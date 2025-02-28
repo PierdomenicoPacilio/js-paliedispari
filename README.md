@@ -24,4 +24,13 @@ Sommiamo i due numeri
 Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 Dichiariamo chi ha vinto.
 ### passaggi:
+#### dichiarazione delle variabili e input:
+- far inserire all'user pari o dispari e verificare massimo 5 volte che sia giusto;
+- far inserire all'utente un numero da 1 a 5 e verificare massimo 5 volte che sia giusto;
+- generare un numero da 1 a 5 del computer e inserirlo in una variabile;
+#### funzione:
+- sommare il numero scelto dall'user e quello uscito al computer;
+- creare una funzione che dica se sono pari o dispari;
+#### output:
+- in base alla scelta dell'user all'inizio decretiamo il vincitore;
 ---
